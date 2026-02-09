@@ -1,0 +1,15 @@
+# AnonyIG 签名服务 - Python 依赖
+
+# Web 框架
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+
+# 数据验证
+pydantic>=2.5.0
+
+# HTTP 客户端
+httpx>=0.26.0
+curl_cffi>=0.6.0
+
+# 表单支持
+python-multipart>=0.0.6
